@@ -11,4 +11,6 @@ scipy==1.9.3
 torch==1.13.1              
 tqdm==4.64.1               
 torchvision==0.14.1        
-transformers==4.33.3       
+transformers==4.33.3   
+opencv-python==4.8.0.76
+ipywidgets>=7.0.0   
